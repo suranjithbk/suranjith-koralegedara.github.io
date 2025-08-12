@@ -1,1 +1,9 @@
+title: "Dr. Suranjith B. Koralegedara"
+email: "suranjith.hmk@gmail.com"
+description: "Atmospheric Scientist & Applied Data Analyst — rainfall variability, soil moisture, CMIP6, remote sensing, geospatial analysis"
+baseurl: ""        # leave empty for user.github.io
+url: "https://suranjith-koralegedara.github.io"
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
 
